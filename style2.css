@@ -5,6 +5,10 @@
     overflow: hidden;
     overflow:scroll;
 }
+.imagess .logo{
+    height: 100px;
+    width: 100px;
+}
 .box2{
     border: 4px solid palevioletred;
     width: 400px;
